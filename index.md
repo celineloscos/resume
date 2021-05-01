@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Work in progress
 
 You can use the [editor on GitHub](https://github.com/celineloscos/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
